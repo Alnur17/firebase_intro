@@ -1,0 +1,9 @@
+<resources>
+    <string name="default_web_client_id" translatable="false">YOUR_DEFAULT_WEB_CLIENT_ID</string>
+    <string name="firebase_database_url" translatable="false">YOUR_FIREBASE_DATABASE_URL</string>
+    <string name="gcm_defaultSenderId" translatable="false">886520836260</string>
+    <string name="google_api_key" translatable="false">AIzaSyCUR9SVr5_WOGk4Txhf8EpFjB5lYb0z6Yk</string>
+    <string name="google_app_id" translatable="false">1:886520836260:android:956b88b6f05ff5cc103631</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCUR9SVr5_WOGk4Txhf8EpFjB5lYb0z6Yk</string>
+    <string name="project_id" translatable="false">fir-basic-b4ef7</string>
+</resources>
